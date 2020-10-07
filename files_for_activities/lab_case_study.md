@@ -2,7 +2,7 @@
 
 ## Scenario
 
-You are working as an analyst for an auto insurance company. The company has collected some data about its customers including their demographics, education, employment, policy details, vehicle information on which insurance policy is, and claim amounts. You will help the senior management with some business questions that will help them to better understand their customers, improve their services, and improve profitability
+You are working as an analyst for an auto insurance company. The company has collected some data about its customers including their demographics, education, employment, policy details, vehicle information on which insurance policy is, and claim amounts. You will help the senior management with some business questions that will help them to better understand their customers, improve their services, and improve profitability.
 
 ## Business Objectives
 
@@ -14,7 +14,7 @@ Based on the analysis, take targeted actions to increase profitable customer res
 
 ## Tasks
 
-Develop a prediction model to predict the claim amount by the customers
+Refer to the `tasks.md` file where you will find guidelines for activities 1 and 2.
 
 ## Data
 
